@@ -29,7 +29,7 @@ Actively Looking For The Best Opportunities As A "Entry Level Front End Develope
 - 📫 Reach Me Out :-  gawalevivek@gmail.com
 
   
-- 📄 Know more about me :- [my_CV](https://tinyurl.com/ydfcvwev) & 
+- 📄 Know more about me :- [my_CV](https://tinyurl.com/vivekgawalepuneresume) & 
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-gawale-frontend-react-developer/)
 
 
