@@ -41,7 +41,7 @@ Actively Looking For The Best Opportunities As A "Entry Level Front End Develope
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=900&size=35&color=C32800&center=true&vCenter=true&random=true&width=1440&height=40&lines=HTML;CSS;JavaScript;SASS;BootStrap;Material_UI;TailWind_CSS;TypeScript;ReactJS;NextJS)](https://git.io/typing-svg)
 
-![typescript](https://firebasestorage.googleapis.com/v0/b/forimgsave.appspot.com/o/myPortfolio%2Fskills%2FforGitHubSkills%2FtoolsBackForGitHub.png?alt=media&token=83a18bd3-2246-4455-b672-7a5ab9bfdc12)
+<!-- ![typescript](https://firebasestorage.googleapis.com/v0/b/forimgsave.appspot.com/o/myPortfolio%2Fskills%2FforGitHubSkills%2FtoolsBackForGitHub.png?alt=media&token=83a18bd3-2246-4455-b672-7a5ab9bfdc12) -->
 
 #
 
